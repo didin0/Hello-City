@@ -3,6 +3,7 @@
 @section('title','About Us | ' . config('app.name'))
 
 @section('content')
+    <img src="/images/unirex.png" alt="logo dinosaur" width="250">
     
     <p>Build with &hearts; By Mehdi</p>
 
